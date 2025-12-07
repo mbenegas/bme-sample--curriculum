@@ -1,5 +1,6 @@
 # bme-sample--curriculum
 
+```mermaid
 graph TD
     %% Year 1
     subgraph Year_1 [Year 1]
@@ -97,3 +98,4 @@ graph TD
 
     %% Biomaterials
     CHEM125 --> BME310
+```
